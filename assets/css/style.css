@@ -8467,6 +8467,12 @@ input[type=color] {
 .amaboutsocial__icon .tp-si__text.tp-si-color-4 {
   background-color: #E40028;
 }
+.amaboutsocial__icon .tp-si__text.tp-si-color-11 {
+  background-color: #25D366;
+}
+.tp-si__icon.tp-si-color-11{
+  background-color: #25D366 !important;
+}
 .amaboutsocial__icon .tp-si__text::after {
   position: absolute;
   right: 0px;
